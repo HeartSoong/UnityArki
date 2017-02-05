@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 1ac9a21a614644a9d9023f7c0f8cbda5
+timeCreated: 1486105073
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beetle 01
+    100002: building2
+    100004: building2_MeshPart0
+    100006: building2_MeshPart1
+    100008: building2_MeshPart2
+    100010: building2_MeshPart3
+    100012: Chicken
+    100014: Dog 01
+    100016: Feather 01.lxp (3)
+    100018: Man
+    100020: Rhinoceros 01 (2)
+    100022: Rubber Silicone Food Grade r01a.lxp (2)
+    100024: Soft White 01.lxp
+    100026: Soft White 01.lxp (3)
+    100028: //RootNode
+    100030: Texture Group
+    100032: white_plastic_glossy_10.lxp
+    400000: Beetle 01
+    400002: building2
+    400004: building2_MeshPart0
+    400006: building2_MeshPart1
+    400008: building2_MeshPart2
+    400010: building2_MeshPart3
+    400012: Chicken
+    400014: Dog 01
+    400016: Feather 01.lxp (3)
+    400018: Man
+    400020: Rhinoceros 01 (2)
+    400022: Rubber Silicone Food Grade r01a.lxp (2)
+    400024: Soft White 01.lxp
+    400026: Soft White 01.lxp (3)
+    400028: //RootNode
+    400030: Texture Group
+    400032: white_plastic_glossy_10.lxp
+    2300000: Beetle 01
+    2300002: building2_MeshPart0
+    2300004: building2_MeshPart1
+    2300006: building2_MeshPart2
+    2300008: building2_MeshPart3
+    2300010: Chicken
+    2300012: Dog 01
+    2300014: Man
+    2300016: Rhinoceros 01 (2)
+    3300000: Beetle 01
+    3300002: building2_MeshPart0
+    3300004: building2_MeshPart1
+    3300006: building2_MeshPart2
+    3300008: building2_MeshPart3
+    3300010: Chicken
+    3300012: Dog 01
+    3300014: Man
+    3300016: Rhinoceros 01 (2)
+    4300000: Man
+    4300002: Chicken
+    4300004: Dog 01
+    4300006: building2_MeshPart0
+    4300008: building2_MeshPart1
+    4300010: building2_MeshPart2
+    4300012: building2_MeshPart3
+    4300014: Rhinoceros 01 (2)
+    4300016: Beetle 01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
